@@ -1,0 +1,63 @@
+---
+layout: default
+title: LIBRARY
+---
+
+
+<div id="archives" class="table-wrapper">
+ </div>
+ {% assign file=site.data.articles %}
+ 
+ <table class="my-class">
+    <caption><h2>Archivos  disponibles</h2</caption>
+    <tr></tr>
+    <thead>
+        
+        {% for column in file[0] %}
+        <th>{{ column[0] }}</th>
+        
+    {% endfor %}
+   
+    <style>
+    font: 10px Helvetica, Arial, sans-serif;
+  font-size: small;
+     border: 1px solid #ddd;
+  th { 
+  background-color: #111;
+	color: white;
+  border-bottom: 32px solid #0000ff;
+}
+th {
+	text-align: center;
+}
+  tr {
+    border: 1px solid #ddd;;
+  border-bottom: 1px solid #0000ff;
+}
+tr:hover {background-color: #333;}
+        </style>    
+</thead>
+    <tbody>
+      
+
+    {% for row in file %}
+        <tr>
+        {% assign amount = 0 %}
+        {% for cell in row %}
+        {% assign amount = amount | plus:1 %}
+        {% if amount == 4 %}
+
+                <td><a href="{{cell[1]}}"">{{cell[1]}}</a></td>       
+        {% else %}
+                <td>{{cell[1]}}</a></td>              
+        {% endif %}
+
+ 
+                
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+ 
+

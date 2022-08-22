@@ -76,7 +76,10 @@ sidebar:
 
       {%- endif -%}
     </div>
-    {%- endif -%}
+   {%- endif -%}
+    {% if post.comments != 0 %}
+    {% include  disqus.html %}
+  {% endif %}
 
   </section>
 </div>

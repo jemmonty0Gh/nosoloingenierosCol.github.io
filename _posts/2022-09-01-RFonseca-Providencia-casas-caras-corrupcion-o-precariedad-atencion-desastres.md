@@ -11,6 +11,7 @@ author: "Rafael Fonseca"
 
 <img src= "{{ "/assets/images/RFonseca-Providencia-40-1024x819.png" | prepend: site.baseurl }}">
 
+
 <p>1. La construcción de las casas en Providencia está muy comentada por todos los medios de más sintonía en el país y hasta por la Contraloría (CGR). Todo debido a que el presidente Petro fue, miró, oyó y <i>“reclamó por lo que consideró que fueron millonarios sobrecostos en la reconstrucción de viviendas” del gobierno Duque</i>(1), y claro, ese tipo de disparadores cumplen su objetivo. Los medios conocidos han lanzado sus conclusiones, pero vale la pena ir hasta las causas últimas (o raíz) del asunto para poder aprender y mejorar de este resultado del que, realmente, no es posible estar muy orgullosos. </p>
 <p>
 Aquí encontrará el lector planteamientos urdidos con base en todo tipo de información de los medios y testimonios de personas locales o que estuvieron durante los trabajos, lo cual implica que, para un análisis riguroso, con pruebas más duras, hay que solicitarle a la Contraloría y a los periodistas de investigación sugiriéndoles que lleven sus trabajos hasta un alcance parecido al que aquí se presenta.</p>

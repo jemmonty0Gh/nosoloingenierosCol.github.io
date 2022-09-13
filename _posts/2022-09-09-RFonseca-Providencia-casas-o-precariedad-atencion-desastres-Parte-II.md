@@ -9,8 +9,7 @@ author: "Rafael Fonseca"
 
 <b>Nota del Editor: A continuación el texto del segundo articulo recientemente publicada por el autor en el sitio</b> <a href="//confidencialcolombia.com">Confidencial Colombia</a> <b>, sobre el tema de las casas como parte de la reconstruccion de la isla de Providencia</b>
 
-<img src="{{ site.url }}/assets/images/Rafael_Fonseca-Providencia_Parte_II.png" width="500px">
-
+<img src= "{{ "/assets/images/Rafael_Fonseca-Providencia_Parte_II.png" | prepend: site.baseurl }}">
 En el artículo anterior se plantearon tres posibles causas del alto costo: 
 
 -   1) alto costo de materiales y Mano de Obra foránea (incluido viaje y manutención) en la isla, 

@@ -218,6 +218,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+  - jekyll-pdf-embed
  
 #added
 theme: jekyll-theme-yat

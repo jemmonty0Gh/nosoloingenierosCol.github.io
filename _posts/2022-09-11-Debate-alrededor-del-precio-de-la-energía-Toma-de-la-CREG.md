@@ -20,7 +20,7 @@ El tema fue desarrollado así:
 <b>RAFAEL FONSECA (RF)</b>: “hay que hacer otra vez la gestión ante el nuevo gobierno”.
 <b>JG</b>: "Confirmado SI abrieron de nuevo la licitación  ... y la ministra que está con la " justicia tarifaria"  saldrá que este proyecto sube sustancial e innecesariamente  las tarifas ??? ¿Sabrá?”. Tal proceso se puede leer en [Convocatoria pública UPME GN 001-2022](https://www1.upme.gov.co/PromocionSector/Paginas/UPME_GN_001_2022_IIGP.aspx).
 <b>Rodrigo Fernandez (RF)</b>: "A propósito de energía. Les comparto el cuestionario para el debate del martes en plenaria de Senado” [DEBATE DE CONTROL POLÍTICO CRISIS ENERGÉTICA DEL PAÍS ALZA EN LAS TARIFAS Y DEFICIENCIA DE LA PRESTACIÓN DEL SERVICIO]
- {% pdf "[https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf](https://drive.google.com/file/d/1134WmeWBuSERmmcP7VAunbZK3_xoWRAA/view?usp=sharing)" %}
+ {% pdf "https://drive.google.com/file/d/1134WmeWBuSERmmcP7VAunbZK3_xoWRAA/view?usp=sharing" %}
 Luego de unos comentarios sobre competencia y método para responder esas citaciones del congreso nacional, se retoma el hilo de la discusión, ahora con RF disponiendo el video de la <b>intervención del presidente de la Republica en la Clausura del XXIV del Congreso de Andesco</b>,  o sea la Asociación Nacional de Empresas de Servicios Públicos y Comunicaciones de Colombia, el espacio donde la energía es mas que importante.
 
 {% include youtubePlayer.html id=page.youtubeId %}

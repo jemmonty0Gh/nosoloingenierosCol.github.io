@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " Debate alrededor del precio de la energía. Toma de la CREG?"
-date:   2022-09-01 
+date:   2022-09-11 
 categories: planeacion
 tags: [energia]
 author: "Comité de Publicacion"
